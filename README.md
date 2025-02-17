@@ -30,3 +30,7 @@ The memory allocator is designed to work with the Linux operating system and int
 This project showcases a strong understanding of memory management, low-level programming, and system calls. It highlights skills in optimizing memory allocation, working with data structures, and debugging complex memory issues. The implementation focuses on reducing fragmentation and improving allocation efficiency, making it a valuable learning experience in systems programming and performance optimization.
 
 By working on this project, I have gained hands-on experience with memory alignment, free list management, system call integration, and performance tuning. This knowledge is directly applicable to developing high-performance applications, embedded systems, and operating system components.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
