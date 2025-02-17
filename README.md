@@ -32,5 +32,4 @@ This project showcases a strong understanding of memory management, low-level pr
 By working on this project, I have gained hands-on experience with memory alignment, free list management, system call integration, and performance tuning. This knowledge is directly applicable to developing high-performance applications, embedded systems, and operating system components.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See `LICENSE` for details.
